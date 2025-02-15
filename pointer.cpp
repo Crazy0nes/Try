@@ -29,7 +29,7 @@ int main(){
    for(i=0;i<10;i++){
     cout << *(j+i) << " ";
    }
-
+cout << endl;
 
    int x=20;
    int *i=&x;
