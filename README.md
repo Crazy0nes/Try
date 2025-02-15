@@ -1,4 +1,0 @@
-# Try
-Percobaan
-
-lorem ipsum 
